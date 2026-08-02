@@ -1,0 +1,7 @@
+[
+    {"name": "Alice", "rating": "5", "feedback": "great product!", "age":"25"},
+    {"name": "Bob", "rating": "4", "feedback": "great product!", "age":"20"},
+    {"name": "Rutu", "rating": "1", "feedback": "great product!", "age":"19"},
+    {"name": "Sona", "rating": "3", "feedback": "great product!", "age":"28"},
+    {"name": "Alisha", "rating": "0", "feedback": "great product!", "age":"35"}
+]
